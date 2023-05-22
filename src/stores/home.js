@@ -95,22 +95,22 @@ export const useHomeStore = defineStore("home", {
       {
         id: 1,
         image: "/assets/homepage/advantages/Fast-shipping.png",
-        description: "Fast shipping. Free on orders over $25.",
+        description: "Быстрая доставка. Бесплатно при заказе от $25.",
       },
       {
         id: 2,
         image: "/assets/homepage/advantages/Sustainable.png",
-        description: "Sustainable process from start to finish.",
+        description: "Устойчивый процесс от начала до конца.",
       },
       {
         id: 3,
         image: "/assets/homepage/advantages/Unique-design.png",
-        description: "Unique designs and high-quality materials.",
+        description: "Уникальный дизайн и высококачественные материалы.",
       },
       {
         id: 4,
         image: "/assets/homepage/advantages/Heart-crown.png",
-        description: "Fast shipping. Free on orders over $25.",
+        description: "Быстрая доставка. Бесплатно при заказе от $25.",
       },
     ],
   }),

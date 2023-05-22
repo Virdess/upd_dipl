@@ -10,7 +10,7 @@
       </ion-toolbar>
     </ion-header>
     <ion-content>
-      <ion-segment class="segment" value="Women">
+      <ion-segment class="segment" value="Женщины">
         <ion-segment-button
           class="segment__button"
           v-for="(gender, i) in genders"
@@ -53,12 +53,12 @@
         <div class="contacts__item">
           <icon-phone />
           <router-link to="#" class="contacts__link"
-            >(786) 713-8616</router-link
+            >+7(800)-555-35-35</router-link
           >
         </div>
         <div class="contacts__item">
           <icon-location-pin />
-          <router-link to="#" class="contacts__link">Store locator</router-link>
+          <router-link to="#" class="contacts__link">Местонахождение</router-link>
         </div>
       </address>
       <div class="menu-footer">
@@ -108,7 +108,7 @@ import {
   IconStick,
 } from "@/components/icons/index.js";
 
-const genders = ["Women", "Man", "Kids"];
+const genders = ["Женщины", "Мужчины", "Дети"];
 
 const accordions = [
   {

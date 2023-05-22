@@ -6,8 +6,7 @@
       alt="Logo"
     ></ion-img>
     <p class="advantages__title">
-      Making a luxurious lifestyle accessible for a generous group of women is
-      our daily drive.
+		Сделать роскошный образ жизни доступным для большой группы женщин — наша ежедневная задача.
     </p>
     <icon-stick class="advantages__stick"></icon-stick>
     <div class="advantages__list">
