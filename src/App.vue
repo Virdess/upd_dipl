@@ -15,8 +15,8 @@ export default defineComponent({
   components: {
     IonApp,
     IonRouterOutlet,
-    BaseMenus,
-  },
+    BaseMenus
+},
 });
 </script>
 
